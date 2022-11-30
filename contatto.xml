@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rubrica xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="xsd_prova3.xsd">
+    <contatto genere="maschio">
+        <nome>Federico</nome>
+        <cognome>Sportiello</cognome>
+        <indirizzo>Via budapest 6</indirizzo>
+        <numnero>3662576897</numero>
+        <posta>sportiefed.s@iisvoltapescara.edu.it</posta>
+        <sito>www.studiare.it</sito>
+    </contatto>
+    
+    <contatto genere="femmina">
+        <nome>Elena</nome>
+        <cognome>Rossi</cognome>
+        <indirizzo>Via piemonte 52</indirizzo>
+        <numnero>3926709329</numero>
+        <posta>elenarossi.shopping@gmail.com</posta>
+        <sito>www.imparare.com</sito>
+    </contatto>
+</rubrica>
